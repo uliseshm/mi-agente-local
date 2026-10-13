@@ -1,0 +1,12 @@
+# Cliente Ollama e IA
+ollama>=0.3.0
+pydantic>=2.0.0
+
+# API / Web Dashboard
+fastapi>=0.110.0
+uvicorn>=0.28.0
+jinja2>=3.1.0
+
+# Utilidades
+python-dotenv>=1.0.0
+requests>=2.31.0
